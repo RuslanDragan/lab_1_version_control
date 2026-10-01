@@ -1,0 +1,14 @@
+d:\WebLAb\lab1\Lab1\task3\bin\Debug\net10.0\Task3.exe
+d:\WebLAb\lab1\Lab1\task3\bin\Debug\net10.0\Task3.deps.json
+d:\WebLAb\lab1\Lab1\task3\bin\Debug\net10.0\Task3.runtimeconfig.json
+d:\WebLAb\lab1\Lab1\task3\bin\Debug\net10.0\Task3.dll
+d:\WebLAb\lab1\Lab1\task3\bin\Debug\net10.0\Task3.pdb
+d:\WebLAb\lab1\Lab1\task3\obj\Debug\net10.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+d:\WebLAb\lab1\Lab1\task3\obj\Debug\net10.0\Task3.AssemblyInfoInputs.cache
+d:\WebLAb\lab1\Lab1\task3\obj\Debug\net10.0\Task3.AssemblyInfo.cs
+d:\WebLAb\lab1\Lab1\task3\obj\Debug\net10.0\Task3.csproj.CoreCompileInputs.cache
+d:\WebLAb\lab1\Lab1\task3\obj\Debug\net10.0\Task3.dll
+d:\WebLAb\lab1\Lab1\task3\obj\Debug\net10.0\refint\Task3.dll
+d:\WebLAb\lab1\Lab1\task3\obj\Debug\net10.0\Task3.pdb
+d:\WebLAb\lab1\Lab1\task3\obj\Debug\net10.0\Task3.genruntimeconfig.cache
+d:\WebLAb\lab1\Lab1\task3\obj\Debug\net10.0\ref\Task3.dll
