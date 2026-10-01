@@ -9,12 +9,6 @@
 - `task4/` — вихідний код та конфігурація четвертого завдання (`Task4.cs`, `Task4.csproj`)
 
 ## Системні вимоги
-- **.NET SDK 10.0** (або актуальна версія .NET SDK)
+- **.NET SDK 10.0** 
 - Встановлений Git
 
-## Інструкція зі збірки та запуску
-
-1. Клонувати репозиторій:
-   ```bash
-   git clone [https://github.com/ВАШ_НІК/lab_1_version_control.git](https://github.com/ВАШ_НІК/lab_1_version_control.git)
-   cd lab_1_version_control
